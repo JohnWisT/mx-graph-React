@@ -2,185 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8b223d-cecd-4d39-865c-c5e1de4e40fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/diagrameditor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/eme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/grid.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/actor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/alignbottom.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/aligncenter.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/alignleft.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/alignmiddle.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/alignright.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/aligntop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/arrow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/block_end.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/block_start.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bold.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bottom.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/camera.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/center.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/classic_end.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/classic_start.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/cloud.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/cmp-bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/collapse.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/connect.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/connector.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/console.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/copy.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/cube_green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/cut.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/cylinder.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/delete.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/diagram.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/diamond_end.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/diamond_start.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/doubleellipse.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/down.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/draw/drawbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/draw/drawbgcolor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/draw/drawfooter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/draw/drawheader.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/draw/mxlogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/dude3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/ellipse.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/entity.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/expand.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/fillcolor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/fit.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/font.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/fontcolor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/gear.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/gear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/grid.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/group.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/help.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/hexagon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/hline.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/house.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/house.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/image.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/italic.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/left.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/linecolor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/link.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/middle.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/new.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/open.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/open_end.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/open_start.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/outline.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/oval_end.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/oval_start.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/flash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/forbidden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/help.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/house.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/information.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/lightbulb_on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/pencil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/printer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/user3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/users3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/overlays/workplace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/package.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/pan.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/paste.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/plain.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/preferences.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/press.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/preview.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/print.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/printer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/properties.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/rectangle.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/redo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/refresh.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/rhombus.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/right.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/rounded.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/save.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/saveas.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/script.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/select.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/server.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/straight.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/swimlane.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/cancel_end.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/cancel_intermediate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/event.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/event_end.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/event_intermediate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/fork.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/inclusive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/merge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/message_end.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/message_intermediate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/multiple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/rule.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_cancel_end.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_cancel_intermediate.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_error.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_event.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_event_end.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_event_intermediate.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_fork.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_inclusive.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_link.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_merge.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_message.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_message_end.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_message_intermediate.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_multiple.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_rule.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_terminate.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/small_timer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/terminate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symbols/timer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/tasks.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/text.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/toback.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/tofront.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/toolbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/top.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/tree.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/triangle.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/underline.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/undo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/ungroup.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/up.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/vertical.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/workplace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/wrench.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/zoom.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/zoomactual.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/zoomin.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/zoomout.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/process set.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/process-end.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/process-start.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/question.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/semaforo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mxGraph/ContextMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mxGraph/Elements.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mxGraph/MXGraphReact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mxGraph/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mxGraph/mxGraph.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,8 +104,17 @@
       <workItem from="1575272039446" duration="23629000" />
       <workItem from="1575371133862" duration="18385000" />
       <workItem from="1575457595375" duration="14034000" />
-      <workItem from="1575543895621" duration="2848000" />
+      <workItem from="1575543895621" duration="6349000" />
+      <workItem from="1575557376103" duration="1443000" />
     </task>
+    <task id="LOCAL-00001" summary="add files">
+      <created>1575549959215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575549959215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +133,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Inspections" timestamp="1574860855177">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -311,6 +146,14 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2646" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575043605311" />
+    <state x="2503" y="27" key="CommitChangelistDialog2" timestamp="1575549957017">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2503" y="27" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575549957017" />
+    <state x="2472" y="248" key="Vcs.Push.Dialog.v2" timestamp="1575550076049">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="248" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575550076049" />
     <state x="2567" y="241" width="626" height="558" key="find.popup" timestamp="1575382092184">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
